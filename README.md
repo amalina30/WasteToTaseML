@@ -1,0 +1,2 @@
+# WasteToTaseML
+Machine Learning Path
